@@ -1,0 +1,38 @@
+[
+    {
+        "id":"01",
+        "title":"Html Tutorial",
+        "description": "HTML tutorial or HTML 5 tutorial provides basic and advanced concepts of HTML. Our HTML tutorial is developed for beginners and professionals. In our tutorial, every topic is given step-by-step so that you can learn it in a very easy way. If you are new in learning HTML, then you can learn HTML from basic to a professional level and after learning HTML with CSS and JavaScript you will be able to create your own interactive and dynamic website. But Now We will focus on HTML only in this tutorial.The major points of HTML are given below: HTML stands for HyperText Markup Language.HTML is use to create web pages and web applications.  HTML is widely used language on the web. We can create a static website by HTML only.Technically, HTML is a Markup language rather than a programming language.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "id":"02",
+        "title":"css tutorial",
+        "description": "CSS tutorial or CSS 3 tutorial provides basic and advanced concepts of CSS technology. Our CSS tutorial is developed for beginners and professionals. The major points of CSS are given below:CSS stands for Cascading Style Sheet. CSS is used to design HTML tags.  CSS is a widely used language the web. HTML, CSS and JavaScript are used for web designing. It helps the web designers to apply style on HTML tags.  CSS Example with CSS Editor  In this tutorial, you will get a lot of CSS examples, you can edit and run these examples with our online CSS editor tool.",
+        "img":"https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png"
+    },
+    {
+        "id": "03",
+        "title": "javascript Tutorial",
+        "description": "Learn JavaScript Tutorial JavaScript Tutorial  Our JavaScrip Tutorial is designed for beginners and professionals both. JavaScript is used to create client-side dynamic pages.JavaScript is an object-based scripting language which is lightweight and cross-platform. JavaScript is not a compiled language, but it is a translated language. The JavaScript Translator (embedded in the browser) is responsible for translating the JavaScript code for the web browse JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for adding programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other graphical web browsers. With JavaScript, users can build modern web applications to interact directly without reloading the page every time. The traditional website uses js to provide several forms of interactivity and simplicity.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NNfNonvHGOe7RI0iSyEEyES9YyycG6fqDuyO1hC7N1cgik7uSFPSti9ES_Xsm9Jm3BE&usqp=CAU"
+    },
+    {
+        "id":"04",
+        "title":"python",
+        "description": "Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals.Python is a simple, general purpose, high level, and object-oriented programming language.  Python is an interpreted scripting language also. Guido Van Rossum is known as the founder of Python programming.  Our Python tutorial includes all topics of Python Programming such as installation, control statements, Strings, Lists, Tuples, Dictionary, Modules, Exceptions, Date and Time, File I/O, Programs, etc. There are also given Python interview questions to help you better understand Python Programming.",
+        "img":"https://freepngimg.com/thumb/python_logo/5-2-python-logo-png-image.png"
+    },
+    {
+        "id":"05",
+        "title":"bootstrap tutorial",
+        "description": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.  ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram. Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components,ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more. Why we use ReactJS? The main objective of ReactJS is to develop User Interfaces (UI) that improves the speed of the apps. It uses virtual DOM (JavaScript object), which improves the performance of the app. The JavaScript virtual DOM is faster than the regular DOM. We can use ReactJS on the client and server-side as well as with other frameworks. It uses component and data patterns that improve readability and helps to maintain larger apps. ",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
+    },
+    {
+        "id":"06",
+        "title":"react js tutorial",
+        "description":"Bootstrap tutorial provides basic and advanced concepts of Bootstrap. Our Bootstrap tutorial is designed for beginners and professionals.  Bootstrap is the popular HTML, CSS and JavaScript framework for developing a responsive and mobile friendly website. Our Bootstrap tutorial includes all topics of Bootstrap such as jumbotron, table, button, grid, form, image, alert, wells, container, carousel, panels, glyphicon, badges, labels, progress bar, pagination, pager, list group, dropdown, collapse,tabs, pills, navbar, inputs, modals, tooltip, popover and scrollspy.",
+        "img":"https://www.nicepng.com/png/full/31-315310_react-hexagon-react-js-transparent-background.png"
+    }
+]
