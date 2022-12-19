@@ -21,6 +21,7 @@ app.get('/category', (req, res)=>{
   
     res.send(data)
  })
+ //check server side
 
  app.get('/tutorial', (req, res)=>{
     res.send(tutorial)
